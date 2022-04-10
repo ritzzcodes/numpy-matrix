@@ -26,6 +26,7 @@ print("Matrix2: n ",mat2)
 print("Scalar addition:  n ",mat1*2)
 print("Element wise addition to two matrices ",mat1*mat2)
 
+#division
 mat2=np.array([np.arange(0,3),np.arange(3,6)])
 print("Matrix: n",mat2)
 print("Division : n ",mat2/2)
